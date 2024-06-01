@@ -14,7 +14,7 @@ const pompomhappinessgrowing = [
 ];
 
 // https://youtu.be/aTiOiMuSznE?si=9e8gw5b65YNpukYa, audio code van chatGPT
-const clickSound = new Audio('audio/twinkleaudio.mpeg');
+const clickSound = new Audio('Audio/twinkleaudio.mpeg');
 
 // begin happiness level
 let happiness = 10;
