@@ -6,11 +6,11 @@ const pompomImage = document.querySelector('#pompom-image');
 
 // Array images, hulp van chatGPT
 const pompomhappinessgrowing = [
-    'images/pompom1.jpg', // 10%
-    'images/pompom2.jpg', // 25%
-    'images/pompom3.jpg', // 50%
-    'images/pompom4.jpg', // 75%
-    'images/pompom5.jpg'  // 100%
+    'Images/pompom1.jpg', // 10%
+    'Images/pompom2.jpg', // 25%
+    'Images/pompom3.jpg', // 50%
+    'Images/pompom4.jpg', // 75%
+    'Images/pompom5.jpg'  // 100%
 ];
 
 // https://youtu.be/aTiOiMuSznE?si=9e8gw5b65YNpukYa, audio code van chatGPT
